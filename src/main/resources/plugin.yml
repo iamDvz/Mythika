@@ -1,0 +1,6 @@
+name: Mythika
+version: '${project.version}'
+main: ru.iamdvz.mythika.Mythika
+api-version: 1.16
+description: Addon for mythicmobs and magicspells
+depend: [MagicSpells, MythicMobs]
